@@ -28,7 +28,7 @@ Works in **France, USA, India, UK, Germany**, and anywhere else OSM has data.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/prospect.git
+git clone https://github.com/foudreeeee/prospect-generator.git
 cd prospect
 
 # 2. Create a virtual environment (recommended)
