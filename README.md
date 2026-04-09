@@ -2,6 +2,16 @@
 
 > **Worldwide lead generation from OpenStreetMap — no API key, no cost.**
 
+[![Try it live](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-ff4b4b?style=for-the-badge)](https://prospects.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/foudreeeee/prospect-generator/tree/main)
+
+## 🚀 Try it instantly — no install needed
+
+**→ [https://prospects.streamlit.app/](https://prospects.streamlit.app/)**
+
+Open the link, enter a city, pick your filters and download your CSV in seconds.
+No Python, no terminal, no setup required.
+
 `prospect.py` scrapes [OpenStreetMap](https://www.openstreetmap.org/) via the [Overpass API](https://overpass-api.de/) to collect local businesses **without a website**: restaurants, hair salons, mechanics, dentists, tattoo studios, and hundreds of other categories. Results are exported as a clean CSV file ready to hand to a client.
 
 Works in **France, USA, India, UK, Germany**, and anywhere else OSM has data.
